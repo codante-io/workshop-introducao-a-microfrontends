@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  background: #eee;
+  display: flex;
+  align-items: center;
+}
+
+.header__link {
+  margin-left: 10px;
+}
